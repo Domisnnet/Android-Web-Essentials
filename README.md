@@ -131,7 +131,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Explore a estrutura de pastas e componentes:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/android/tree/main)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FAndroid--Web--Essentials-blue?style=for-the-badge&logo=github&labelColor=0d1117)](https://domisnnet.github.io/Android-Web-Essentials/)
 
 ---
 
@@ -160,5 +160,5 @@ Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badg
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
 <a href="https://github.com/Domisnnet"> 
-  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+  <img src="src/imagens/DomisDev.png" width="90" alt="Acessar perfil GitHub"> 
 </a>
