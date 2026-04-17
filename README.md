@@ -1,10 +1,15 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Android-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Android-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Android-Web-Essentials?style=for-the-badge)
+
+
 <h2 id="sobre-o-projeto">1. 🤖 Curiosidades Android: Uma Viagem no Tempo 🚀</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20Bootstrap-blueviolet)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/android/blob/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Android-Web-Essentials/blob/main/LICENSE)
 
-![Android Bugdroids](src/imagens/Macbook-Air-1559x975.png)
+![Android Bugdroids](src/imagens/android.png)
 
 Bem-vindo ao **Curiosidades de Tecnologia Android**! Este projeto é uma experiência interativa que explora a história do Bugdroid, os famosos mascotes verdes criados por Irina Blok. Mergulhe na filosofia de código aberto, descubra o significado por trás dos nomes de doces e entenda a evolução visual do sistema mobile mais usado do mundo.
 
@@ -15,7 +20,7 @@ Bem-vindo ao **Curiosidades de Tecnologia Android**! Este projeto é uma experi�
 | 🤖 O Projeto | 🛠️ Técnico | 🤝 Comunidade |
 | :---: | :---: | :---: |
 | [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre-o-projeto) | [![5. Destaques](https://img.shields.io/badge/5%20-%20Destaques-607D8B)](#destaques-tecnicos) | [![9. Código](https://img.shields.io/badge/9%20-%20Código-795548)](#codigo-fonte) |
-| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Repositório](https://img.shields.io/badge/6%20-%20Repo-009688)](#codigo-fonte) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
+| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Instalação](https://img.shields.io/badge/6%20-%20Instala%C3%A7%C3%A3o-009688)](#instalacao) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
 | [![3. Acessar](https://img.shields.io/badge/3%20-%20Acessar-FF9800)](#como-acessar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
 | [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
 
@@ -36,7 +41,7 @@ Bem-vindo ao **Curiosidades de Tecnologia Android**! Este projeto é uma experi�
 Clique no botão abaixo para iniciar sua viagem no tempo pelo universo Android:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/android/" target="_blank">
+  <a href="https://domisnnet.github.io/Android-Web-Essentials/" target="_blank">
     <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -69,11 +74,17 @@ Implementação de visualização de vídeos do YouTube com capas responsivas, g
 
 ---
 
-<h2 id="codigo-fonte">6. 📂 Repositório</h2>
+<h2 id="instalacao">6. 🚀 Instalação e Configuração Local</h2>
 
-Deseja explorar os bastidores do código ou contribuir? Acesse o repositório oficial:
+Deseja explorar os bastidores do código ou contribuir? Acesse o repositório:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Fandroid-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/android)
+```bash
+# Clonar o repositório
+git clone https://github.com/Domisnnet/Android-Web-Essentials.git(https://github.com/Domisnnet/Android-Web-Essentials.git)
+
+# Acessar a pasta
+cd Android-Web-Essentials
+```
 
 ---
 
@@ -83,11 +94,17 @@ Siga os passos abaixo para fortalecer este deck de informações:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/android/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Android-Web-Essentials/fork) |
 | **02** | **Branch** | `git checkout -b feature/NovaCuriosidade` |
 | **03** | **Commit** | `git commit -m 'feat: adição da versão Android 14'` |
 | **04** | **Push** | `git push origin feature/NovaCuriosidade` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/android/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Android-Web-Essentials/compare)
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Android?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Android-Web-Essentials/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Android-Web-Essentials/issues/new)
 
 ---
 
@@ -136,13 +153,12 @@ Este projeto une história e tecnologia:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/android/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Android-Web-Essentials/blob/main/LICENSE)
 
 ---
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
-
----
-Feito com ❤️ por **DomisDev**
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
